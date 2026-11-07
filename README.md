@@ -2,6 +2,9 @@
 
 Peelin is a shedding duel for two, made for the Trifle deck but playable with a regular one. Stake a card on going out, peel your hand, and free your Queens.
 
+👉 View the game on BoardGameGeek:  
+https://boardgamegeek.com/boardgame/481944/peelin
+
 ## Repository Contents
 
 This repository contains:
